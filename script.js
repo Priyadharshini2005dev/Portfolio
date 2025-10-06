@@ -424,6 +424,7 @@ window.addEventListener('load', () => {
 const navbarToggle = document.querySelector('.navbar-toggle');
 
 
+
 // Toggle menu open
 navbarToggle.addEventListener('click', (e) => {
   navMenu.classList.toggle('active');

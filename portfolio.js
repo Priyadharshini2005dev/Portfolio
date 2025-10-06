@@ -279,6 +279,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         }
     });
 });
+   
 
 // Animate elements when they come into view
 const observerOptions = {
